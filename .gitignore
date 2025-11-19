@@ -1,0 +1,12 @@
+# C build outputs
+*.o
+*.obj
+*.exe
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code workspace (如果你不想上傳)
+*.code-workspace
